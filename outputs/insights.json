@@ -1,0 +1,91 @@
+{
+  "kpis": {
+    "Total Revenue": "₹165,990,201",
+    "Total Profit": "₹21,312,799",
+    "Profit Margin %": 12.8,
+    "Delivered Orders": "25,417",
+    "Active Customers": "4,795",
+    "Average Order Value": "₹6,531",
+    "Repeat Customer Rate %": 73.1,
+    "Return Rate %": 7.1,
+    "Cancellation Rate %": 5.0
+  },
+  "peak_month": [
+    "Nov 2024",
+    "₹11,508,376"
+  ],
+  "oct_nov_revenue_by_year": {
+    "2024": "₹20,166,066",
+    "2025": "₹17,178,739"
+  },
+  "top_category": [
+    "Electronics",
+    "₹111,895,694"
+  ],
+  "best_margin_category": [
+    "Fashion",
+    28.4
+  ],
+  "lowest_margin_category": [
+    "Grocery",
+    -1.5
+  ],
+  "top_city": [
+    "Mumbai",
+    "₹24,994,382"
+  ],
+  "best_channel_rev_per_customer": [
+    "Social Media",
+    "₹37,346"
+  ],
+  "worst_channel_rev_per_customer": [
+    "Referral",
+    "₹31,437"
+  ],
+  "highest_return_payment": [
+    "Credit Card",
+    7.6
+  ],
+  "rfm": {
+    "Champions": {
+      "customers_%": 23.7,
+      "revenue_%": 50.7
+    },
+    "Loyal Customers": {
+      "customers_%": 19.4,
+      "revenue_%": 22.0
+    },
+    "Can't Lose Them": {
+      "customers_%": 8.3,
+      "revenue_%": 12.5
+    },
+    "At Risk": {
+      "customers_%": 8.6,
+      "revenue_%": 4.5
+    },
+    "Lost": {
+      "customers_%": 14.0,
+      "revenue_%": 3.1
+    },
+    "New / Promising": {
+      "customers_%": 8.8,
+      "revenue_%": 2.7
+    },
+    "Hibernating": {
+      "customers_%": 9.1,
+      "revenue_%": 2.3
+    },
+    "Need Attention": {
+      "customers_%": 8.2,
+      "revenue_%": 2.3
+    }
+  },
+  "pareto_top20pct_customers_revenue_%": 62.6,
+  "avg_retention_%": {
+    "M1": 38.4,
+    "M3": 25.5,
+    "M6": 16.1,
+    "M12": 5.2
+  },
+  "avg_clv": "₹34,617"
+}
